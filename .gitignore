@@ -1,0 +1,6 @@
+# Project exclude paths
+/src/main/entities/
+/src/main/entities/Util/
+/src/main/java/
+/src/main/magazinOnline/
+/target/
